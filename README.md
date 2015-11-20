@@ -9,7 +9,6 @@ Place MicroMegas in an audio track, and place the included "Micromegas MIDI Send
 
 I've made two versions of MicroMegas. <br>
 ----"MicroMegas with SoftStep" contains code that allows the Softstep footpedal to control the parameters in powerful ways.
-To send MIDI from the Softstep to MicroMegas, make sure your SoftStep Advanced Editor is open, place the included "Softstep MIDI Sender" in a MIDI track, and set this MIDI track to send/receive from SSCOM (Port 1). <br>
 ----"MicroMegas" is without SoftStep control, and thus has a couple extra GUI elements.
 
 
