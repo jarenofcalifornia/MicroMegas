@@ -5,14 +5,17 @@ It can play back these samples as a powerful looper, and/or as a polyphonic gran
 These two modes are interrelated, and can be synced together.
 The looper has quasi-granular parameters, and the granular synthesizer can act as a time-pitch independent looper.
 
-Micromegas is a Max for Live audio device, and works in Ableton. It has two sister devices that route it MIDI.
-Micromegas is programmed to work with the SoftStep footpedal. 
-Certain functions (such as quantized Speed and Grainsize settings) can only be accessed through the SoftStep interface.
-Place Micromegas in an audio track, and the two sister devices in MIDI tracks, make sure the MIDI bus #s (found on GUI) are corrolated.
-For the "Softstep MIDI Sender" to work, make sure your SoftStep Advanced Editor is open, and your Live MIDI track is set to send/receive from SSCOM (Port 1).
+Micromegas is a Max for Live audio device, and works in Ableton. 
+Place MicroMegas in an audio track, and place the included "Micromegas MIDI Sender" in a MIDI track.
 
-Known bugs:
-Sometimes the karma~ object does not initialize, and one must open the patch and reinitialize the object.
-Sometimes a MIDI note does not properly release. Workaround: trigger a number of voices greater than the max setting in the "Voice" param.
+I've made two versions of MicroMegas. 
+----"MicroMegas with SoftStep" contains code that allows the Softstep footpedal to control the parameters in powerful ways.
+To send MIDI from the Softstep to MicroMegas, make sure your SoftStep Advanced Editor is open, place the included "Softstep MIDI Sender" in a MIDI track, and set this MIDI track to send/receive from SSCOM (Port 1).
+----"MicroMegas" is without SoftStep control, and thus has a couple extra GUI elements.
+
+
+Bugs:
+----Sometimes the karma~ object does not initialize, and one must open the patch and reinitialize the object.
+----Sometimes a MIDI note does not properly release. Workaround: trigger a number of voices greater than the max setting in the "Voice" param.
 
 Micromegas is based on and made possible by Robert Henke's Granualtor II synthesizer, and Robert Constazo and Raja's karma~ live-sampler.
