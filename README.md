@@ -18,4 +18,4 @@ Bugs:
 ----Sometimes the karma~ object does not initialize, and one must open the patch and reinitialize the object. <br>
 ----Sometimes a MIDI note does not properly release. Workaround: trigger a number of voices greater than the max setting in the "Voice" param.
 
-Micromegas is based on by Robert Henke's Granualtor II synthesizer, and Robert Constazo and Raja's karma~ live-sampler. Both were released for free. Thanks guys.
+Micromegas is based on by Robert Henke's Granualtor II synthesizer, and Robert Constanzo and Raja's karma~ live-sampler. Both were released for free. Thanks guys.
