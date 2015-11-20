@@ -4,7 +4,7 @@ It can record and overdub live-audio in any speed or direction. It can overdub o
 It can play back these samples as a powerful looper, and/or as a polyphonic granular synthesizer. <br>
 The looper has granular parameters, and the granular synthesizer can act as a time-pitch independent looper. Sync 'em. <br>
 
-Micromegas is a Max for Live audio device, and works in Ableton. <br>
+Micromegas is a Max for Live audio device. It works in Ableton Live. <br>
 Place MicroMegas in an audio track, and place the included "Micromegas MIDI Sender" in a MIDI track. <br>
 
 I've made two versions of MicroMegas. <br>
