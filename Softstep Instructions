@@ -1,9 +1,17 @@
 To send MIDI from the Softstep to MicroMegas, make sure your SoftStep Advanced Editor is open, place the included "Softstep MIDI Sender" in a MIDI track, and in the Live i/o set this MIDI track to send/receive from SSCOM (Port 1). <br>
 Make sure that the SS button is engaged in Micromegas, and that the MIDI bus number next to that button is the same as the bus number on the "Softstep MIDI Sender". <br>
 
-Almost every corner of the SS keys can control a parameter. 
-1: ↑ ← → ↓
-1: ↑ ← → ↓
-1: ↑ ← → ↓
-1: ↑ ← → ↓
-1: ↑ ← → ↓
+Almost every corner of the SS keys can control a parameter. Use yours big toes! It takes a little practice but is rewarding. <br>
+All parameters are annontated in Ableton Live. Hover your cursor over them to get a description in the help window. <br>
+
+1: (↑ quantize) (← stop / double trigger = reinitialize) (→ play) (↓ record) <br>
+2: (↑ sync) (← reverse) (→ freeze) (↓ MIDI key in) <br>
+3: (↑ none) (← odub amount →) (↓ latch / hold down and release = hold) <br>
+4: (↑ volume ↓) (← xfade →) <br>
+5: (↑ ← → ↓ none) <br>
+6: (↑ window size ↓) (← start pos →) <br>
+7: (↑ speed presets ↓) (← speed raw →) <br>
+8: (↑ grain-size presets ↓) (← grain raw →) <br>
+9: (↑ spike ↓) (← spray →) <br>
+0: (↑ none ↓) (← scrub →) <br>
+
