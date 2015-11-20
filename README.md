@@ -2,8 +2,7 @@
 Micromegas is a granular sampler and looper, made for live performance. <br>
 It can record and overdub live-audio in any speed or direction. It can overdub over any part of an original recording. <br>
 It can play back these samples as a powerful looper, and/or as a polyphonic granular synthesizer. <br>
-These two modes are interrelated, and can be synced together. <br>
-The looper has quasi-granular parameters, and the granular synthesizer can act as a time-pitch independent looper. <br>
+The looper has granular parameters, and the granular synthesizer can act as a time-pitch independent looper. Sync 'em. <br>
 Micromegas is a Max for Live audio device, and works in Ableton. <br>
 Place MicroMegas in an audio track, and place the included "Micromegas MIDI Sender" in a MIDI track. <br>
 
