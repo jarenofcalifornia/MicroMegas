@@ -1,1 +1,9 @@
+To send MIDI from the Softstep to MicroMegas, make sure your SoftStep Advanced Editor is open, place the included "Softstep MIDI Sender" in a MIDI track, and in the Live i/o set this MIDI track to send/receive from SSCOM (Port 1). <br>
+Make sure that the SS button is engaged in Micromegas, and that the MIDI bus number next to that button is the same as the bus number on the "Softstep MIDI Sender". <br>
 
+Almost every corner of the SS keys can control a parameter. 
+1: ↑ ← → ↓
+1: ↑ ← → ↓
+1: ↑ ← → ↓
+1: ↑ ← → ↓
+1: ↑ ← → ↓
